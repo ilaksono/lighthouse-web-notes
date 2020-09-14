@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Ian](https://github.com/ilaksono) for the Lighthouse Labs Web Development Bootcamp. 
+This repository contains all of the notes taken by [Ian](https://github.com/ilaksono) for the Lighthouse Labs Web Development Bootcamp.
 
 ## Table of Contents
 
