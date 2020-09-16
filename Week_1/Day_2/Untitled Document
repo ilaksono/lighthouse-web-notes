@@ -1,0 +1,3 @@
+//take all arguments in terminal and read back to terminal, add them together and output the sum
+//positive & negative values needx to be accounted for, and everything else should be ignored
+
